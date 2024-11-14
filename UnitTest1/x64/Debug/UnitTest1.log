@@ -1,0 +1,10 @@
+﻿  UnitTest1.cpp
+C:\Users\User\source\repos\AP_Lab№10.1B\AP_Lab№10.1B.cpp\AP_Lab№10.1B.cpp.cpp(143,2): error C2059: syntax error: 'constant'
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\User\source\repos\AP_Lab№10.1B\UnitTest1\UnitTest1.cpp(20,9): error C2653: 'Assert': is not a class or namespace name
+  (compiling source file '/UnitTest1.cpp')
+  
+C:\Users\User\source\repos\AP_Lab№10.1B\UnitTest1\UnitTest1.cpp(20,17): error C3861: 'AreEqual': identifier not found
+  (compiling source file '/UnitTest1.cpp')
+  
